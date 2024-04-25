@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "id": "14f6",
+      "name": "shrief",
+      "email": "shriefmansour03@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "c6da",
+      "name": "shrief",
+      "email": "shriefmansour03@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "ea1b",
+      "name": "kalbaz",
+      "email": "kalbaz12@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "e957",
+      "name": "elhenawy",
+      "email": "elhinawy@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": " bedroom-1",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-1.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "2",
+      "title": " bedroom-2",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-2.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "3",
+      "title": " bedroom-3",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-3.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 32000,
+      "country": "Turkish"
+    },
+    {
+      "id": "4",
+      "title": "bedroom-4",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-4.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 28000,
+      "country": "Turkish"
+    },
+    {
+      "id": "5",
+      "title": "bedroom-5",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-5.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 45000,
+      "country": "Turkish"
+    },
+    {
+      "id": "6",
+      "title": "bedroom-6",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-6.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 33000,
+      "country": "Turkish"
+    },
+    {
+      "id": "7",
+      "title": "bedroom-7",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-7.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 15000,
+      "country": "Turkish"
+    },
+    {
+      "id": "8",
+      "title": "bedroom-8",
+      "category": "BedRooms",
+      "image": "/Assets/BedRooms/bedroom-8.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 20000,
+      "country": "Turkish"
+    },
+    {
+      "id": "18",
+      "title": "Living room-1",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-1.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "19",
+      "title": "Living room-2",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-2.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "20",
+      "title": "Living room-3",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-3.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "21",
+      "title": "Living room-4",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-4.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "22",
+      "title": "Living room-5",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-5.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "23",
+      "title": "Living room-6",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-6.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "24",
+      "title": "Living room-7",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-7.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "25",
+      "title": "Living room-8",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-8.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "26",
+      "title": "Living room-9",
+      "category": "LivingRoom",
+      "image": "/Assets/LivingRooms/living-room-9.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "27",
+      "title": "Kids Room-1",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-1.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "28",
+      "title": "Kids Room-2",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-2.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "29",
+      "title": "Kids Room-3",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-3.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "30",
+      "title": "Kids Room-4",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-4.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "31",
+      "title": "Kids Room-5",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-5.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "32",
+      "title": "Kids Room-6",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-6.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "33",
+      "title": "Kids Room-7",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-7.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "34",
+      "title": "Kids Room-8",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-8.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    },
+    {
+      "id": "35",
+      "title": "Kids Room-9",
+      "category": "Kids",
+      "image": "/Assets/Kids/kids-bedroom-9.jpg",
+      "description": "Modern bedrooms  ",
+      "price": 27000,
+      "country": "Turkish"
+    }
+  ]
+ 
+}

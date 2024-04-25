@@ -1,0 +1,20 @@
+.ProductsPage{
+    padding-top: 10rem;
+}
+.bedroom{
+    padding-top: 5rem;
+}
+.ProductsPage h1{
+    color: white;
+    font-size: 34px; 
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 9rem;
+    
+}
+.ProductsPage hr{
+    width: 37rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 9rem;
+}

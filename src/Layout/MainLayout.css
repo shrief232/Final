@@ -1,0 +1,34 @@
+.body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: black;
+    background-image: url(../root/img/body-top-bg.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.cart-menu{
+    background-color: rgba(58, 2, 58, 0.623);
+    width: 40px;
+    height: 100vh;
+    padding: 20px;
+    overflow: hidden;
+    transition: .5s;
+    position: sticky;
+    top: 0;
+    bottom: 0;
+    z-index: inherit;
+}
+.cart-menu:hover{
+    width: 860px;
+    z-index: inherit;
+}
+.mycart{
+    list-style: none;
+    position: relative;
+    height: 95%;
+
+}
+

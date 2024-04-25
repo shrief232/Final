@@ -1,0 +1,53 @@
+.profile{
+    padding-top: 10rem;
+    
+}
+.bedroom{
+    padding-top: 5rem;
+}
+.profile h1{
+    color: white;
+    font-size: 34px; 
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 9rem;
+    
+}
+.profile hr{
+    width: 36rem;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 9rem;
+}
+@media (max-width: 990px) {
+    .profile h1{
+        color: white;
+        font-size: 30px; 
+        display: center;
+        justify-content: center;
+        padding-left: 9rem;
+        
+    }
+    .profile hr{
+        width: 30rem;
+        display: flex;
+        justify-content: center;
+        margin-left: 9rem;
+    }
+}
+@media (max-width: 720px) {
+    .profile h1{
+        color: white;
+        font-size: 24px; 
+        display: center;
+        justify-content: center;
+        padding-left: 9rem;
+        
+    }
+    .profile hr{
+        width: 20rem;
+        display: flex;
+        justify-content: center;
+        margin-left: 9rem;
+    }
+}

@@ -1,0 +1,71 @@
+.footer {
+    
+    padding: 30px 0;
+    text-align: center; /* Center content horizontally */
+    padding-top: 12rem;
+
+  }
+  hr{
+    background-color: white;
+  }
+  
+  .container {
+    padding-top: 6rem;
+    width: 90%; /* Adjust container width as needed */
+    margin: 0 auto; /* Center container horizontally */
+    display: flex; /* Arrange footer columns horizontally */
+    flex-wrap: wrap; /* Allow columns to wrap if needed */
+    justify-content: space-between; /* Distribute columns evenly */
+  }
+  
+  .footer-row {
+    display: flex; /* Arrange footer columns within container */
+    flex-wrap: wrap; /* Allow columns to wrap if needed */
+    justify-content: space-between; /* Distribute columns evenly */
+  }
+  
+  .footer-col {
+    flex: 1; /* Make columns grow equally */
+    margin-bottom: 20px;
+  }
+  
+  .footer-col-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .footer Link {
+    color: white;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .footer a:hover {
+    color: white;
+  }
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .social-links li {
+    margin-bottom: 5px;
+  }
+  
+  .social-links Link i {
+    margin-right: 5px;
+    color: #585757;
+  }
+  
+  .copyright {
+    margin-top: 40px;
+    font-size: 12px;
+    color: #aaa;
+    padding-left: 40%
+  }
+  
+  
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css");
+  

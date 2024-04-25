@@ -1,0 +1,9 @@
+.out-btn{
+    width: 60px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: purple;
+    color: white;
+    border-style: none;
+    cursor: pointer;
+}

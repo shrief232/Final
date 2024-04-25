@@ -1,0 +1,86 @@
+.login{
+    width: 100%;
+    padding: 5rem 5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content:center;
+    gap: 2rem;
+    padding-top: 4rem;
+}
+.hero-register{
+    width: 50%;
+    padding: 5rem 5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    align-content:center;
+    gap: 2rem;
+    padding-top: 4rem;
+    background-color: blueviolet;
+
+}
+h1{
+    font-size: 40px;
+
+}
+.form{
+    background-color: rgba(52, 14, 88, 0.648);
+    width: 50%;
+    padding: 5rem 5rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    align-content:flex-start;
+    gap: 2rem;
+    padding-top: 4rem;
+
+}
+.Main{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.section{
+    width: 100%;
+    color: rgba(255, 255, 255, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px; 
+
+}
+
+.field{
+    background-color: purple;
+    color: rgba(255, 255, 255, 0.4);
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+.btn button{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(46, 2, 46);
+    color: white;
+    border-radius: 10px;
+}
+.btn button:hover{
+    background-color: blueviolet;
+}
