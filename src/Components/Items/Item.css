@@ -39,4 +39,17 @@
 .link-img{
     padding-bottom: 10px;
 }
-
+.cart-btn{
+    width: 200px;
+    color: white;
+    background-color: purple;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;  
+}
+.cart-btn-link{
+    text-decoration: none;
+    color: white;
+}

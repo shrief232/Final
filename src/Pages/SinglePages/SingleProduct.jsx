@@ -81,7 +81,7 @@ export default function SingleProduct(){
           <label for="star1" title="1 star">★</label>
         </div>
         <div className='add-btn'>
-        {IsinCart ?( <span>Already In cart   <Link  to='/cart'>Go To Cart</Link></span>):(<AddtoCartBtn product={product}/>)}
+        {IsinCart ?( <span>Already In cart  <button className='cart-btn'> <Link className='cart-btn-link'  to='/cart'>Go To Cart</Link></button></span>):(<AddtoCartBtn product={product}/>)}
         </div>
        </div>
         

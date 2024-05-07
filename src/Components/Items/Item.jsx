@@ -29,7 +29,7 @@ import { $cartAtom } from '../../Atoms/cartAtom'
       <div className='item-price'>
         ${price}
       </div>
-        {IsinCart ?( <span>Already In cart   <Link  to='/cart'>Go To Cart</Link></span>):(<AddtoCartBtn product={product}/>)}
+        {IsinCart ?( <span>Already In cart  <button className='cart-btn'> <Link className='cart-btn-link'  to='/cart'>Go To Cart</Link></button></span>):(<AddtoCartBtn product={product}/>)}
         
 
     </div>
